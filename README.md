@@ -308,4 +308,4 @@ Now you have refactored the code, see if you can improve the experience of the
 game for the player. Identifying which part of the code needs to be changed
 for a certain point of improvement should be easier now after the refactor!
 
-[starter]: https://github.com/appacademy/practice-for-week-04-rock-paper-scissors-long-practice
+[starter]: https://github.com/appacademy/practice-for-week-04-rock-paper-scissors-long-practice# rock-paper-scissors-refactor
